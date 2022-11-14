@@ -1,0 +1,117 @@
+#EXTINF:-1 tvg-id="01" tvg-name="MIQA18" tvg-logo="https://cf.shopee.com.my/file/d95f61e1a60bf01cfc2a17079b940623" group-title="🇲🇾 ᴛʀᴜsᴛᴇᴅ_sᴇʟʟᴇʀ 🇲🇾",ᴍɪǫᴀ18
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:-1 tvg-id="02" group-title="❤️ тнanĸѕ yoυ ғor yoυr ѕυpporт ❤️" tvg-logo="https://thumbs.dreamstime.com/b/thank-you-stamp-style-design-thank-you-stamp-style-design-available-png-128743078.jpg",❤️ тнanĸѕ yoυ ғor yoυr ѕυpporт ❤️
+http://astro2.rastream.com/era
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
+
+#EXTINF:-1 tvg-id="101" tvg-name="101" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="📺lιve:мalayѕιa📺" ,TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+
+#EXTINF:-1 tvg-id="101" tvg-name="101" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="📺lιve:мalayѕιa📺" ,TV1 BACKUP
+#EXTVLCOPT:https-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="102" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",TV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_ott.mpd
+
+#EXTINF:-1 tvg-id="102" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png",TV2 BACKUP
+#EXTVLCOPT:https-referrer=https://rtm-player.glueapi.io/
+#EXTVLCOPT:https-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" tvg-chno="3" channel-id="3" group-title="📺lιve:мalayѕιa📺",TV3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" tvg-chno="3" channel-id="3" group-title="📺lιve:мalayѕιa📺",TV3 BACKUP
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="106" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="147" tvg-name="NTV 7 KPM" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="📺lιve:мalayѕιa📺",NTV 7 KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="📺lιve:мalayѕιa📺",8TV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png" tvg-chno="6" channel-id="6" group-title="📺lιve:мalayѕιa📺",TV9
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id="109" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/1200px-TV9_%28Malaysia%29_logo.svg.png",TV9 BACKUP
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 tvg-id="110" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHN" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
+#EXTINF:-1 tvg-id="114" ch-number="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="📺lιve:мalayѕιa📺",TV ALHIJRAH HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="114" tvg-name="TV Al-Jazeera English" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/varbase_wysiwyg_image/public/shr_ljzyr_lnjlyzy_-_sly_3.png" group-title="📺lιve:мalayѕιa📺",TV Al-Jazeera English [ʙᴏɴᴜs]
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="123" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="111" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/SUKAN_RTM.jpg",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 xui-id="AstroAwani" tvg-id="AstroAwani" tvg-country="MY" tvg-language="Malay" group-title="📺lιve:мalayѕιa📺" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani [ʙᴏɴᴜs]
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4667aa2bb9d080471f43e03d40868c10&key=116db8fda0a62355cf24c6acb6aab03d
+#EXTINF:-1 tvg-id="416" ch-number="416" group-title="📺lιve:мalayѕιa📺" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",tvN Movies HD [ʙᴏɴᴜs] [eхclυѕιve]
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/686C4852-63B3-4286-980B-B832F5829900.png/revision/latest?cb=20190529204426",hits FM
+http://astro1.rastream.com/hitz
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="http://4.bp.blogspot.com/-pX-suekr_xs/Te1VyFnsiEI/AAAAAAAABSE/0vrLyJLAsPw/s400/FM-Logo-THR-Gegar.jpg",Thr Gegar FM
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2011/06/era-fm.png",era FM
+http://astro2.rastream.com/era
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",Sinar FM
+https://astro2.rastream.com/sinar
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/f99qzc7trxuz.jpg",NasionaL FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png",Radio Klasik FM
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png",Asyik FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="721" tvg-chno="721" tvg-logo="https://i.ibb.co/M6x9dPQ/image.png",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:0, tvg-id="chn" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/KL-FM.jpeg" tvg-name="KLfm"  group-title="📻lιve:radιo📻",KL FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="722" tvg-chno="722" tvg-logo="https://i.ibb.co/YckpG8w/image.png",Kool FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="724" tvg-chno="723" tvg-logo="https://i.ibb.co/q7bmjbX/image.png",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="725" tvg-chno="725" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://dbs.radioline.fr/pictures/radio_28eeb8c9cdfcda936ac8c3e44f1f7b73/logo200.jpg",8FM 
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://pbs.twimg.com/profile_images/426155316758077440/FnJgAITy_400x400.jpeg",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+#EXTINF:-1 group-title="📻lιve:radιo📻" ch-number="724" tvg-chno="724" tvg-logo="https://i.ibb.co/z6nG2s0/image.png",One FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6324.1564812092.png",Mix.Fm
+https://astro2.rastream.com/mix
+#EXTINF:-1 group-title="📻lιve:radιo📻" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hvEKW93hqh.jpg",India Beat FM
+https://astro4.rastream.com/india
