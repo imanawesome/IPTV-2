@@ -2040,6 +2040,20 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Zayan.m3u8
 #EXTINF:-1 group-title="Radio Stations" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.astradamy.com/logos/GoXuan2022.png",GOXUAN
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cfcff10e7bf34c5e65a8619c034dc10:311a12c7353cfb13923efe9e340ce724
+EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png",Demi Negaraku
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default.mpd
+
+
+#EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
+https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
+
+
+
+################################################################ MY FREEVIEW ##################################################################################
+
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
@@ -2074,12 +2088,12 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5070/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",Astro Premier
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5128/
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremier.png",Astro Premier
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 
