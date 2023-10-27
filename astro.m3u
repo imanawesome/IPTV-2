@@ -46,11 +46,6 @@ http://thefirefox12537.github.io/streams/astro/warna.m3u8
 ##https://linears-playback.astro.com.my/vsg/41VKHsj_WiLj_8PIlULli0WzhUDi-8zGm7sgyhAlDF5UQ=UBTa/dash-wv/jitp-dashisowm/2700/default.mpd
 http://thefirefox12537.github.io/streams/astro/citra.m3u8
 
-#EXTINF:-1 tvg-id="GoShopBAARU" group-title="Malay" ch-number="111" tvg-logo="https://linear-poster.astro.com.my/prod/logo/GO_Shop_v1.png",111 Go Shop BAARU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2508
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default.mpd
-
 #EXTINF:-1 tvg-id="AstroRania" group-title="Malay" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",112 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
@@ -70,11 +65,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2611
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
-
-#EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="Malay" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2501
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2501/default.mpd
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -186,11 +176,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
-#EXTINF:-1 ch-number="303" tvg-id="GoShop2" group-title="Chinese" tvg-logo="https://i.kampung.xyz/c/3c09cfb4117ed995.png",303 Go Shop 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1005
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default.mpd
-
 #EXTINF:-1 ch-number="305" tvg-id="TVBClassic" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5016
@@ -206,11 +191,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5103/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={"59ad205a58514039abe940fe1bd2bc95":"aada2cb8208b85b271adc9b24f83125a"}
 ##https://raw.githubusercontent.com/Ortsa8/stream/main/ortsa/aec.m3u8
 https://linear05-playback.sooka.my/CH4/masterCH4.mpd
-
-###EXTINF:-1 ch-number="307" tvg-id="AstroShuangXing" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key={"33566705d63f56f1d31c45f69568ed10":"d13bcf0ca6e62d71b6c4dd70d5ffeab2"}
-###https://linears-playback.astro.com.my/vsg/41xB7dZWbLRQsJT2UOKSy-jU89wIZj1iIezGqkKALBnoI=UI0_/dash-wv/jitp-linearwm/2403/default.mpd
 
 #EXTINF:-1 ch-number="308" tvg-id="AstroQJ" group-title="Chinese" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png",308 Astro QJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -525,11 +505,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5052
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default.mpd
-
-#EXTINF:-1 ch-number="704" tvg-id="Primetime" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png",704 PRIMEtime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5049
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 
 #EXTINF:-1 ch-number="706" tvg-id="HITS" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",706 HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
