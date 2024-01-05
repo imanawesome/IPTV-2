@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" refresh="3600" 
 
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
