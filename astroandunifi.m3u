@@ -242,19 +242,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
 
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Sooka",131 Filem Mantap
+#EXTINF:-1 ch-number="131" tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Sooka",131 Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="x.astro" group-logo="https://telegra.ph/file/58ac12291c653b68eb222.png" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Sooka",132 Drama Hebat
+#EXTINF:-1 ch-number="132" tvg-id="x.astro" group-logo="https://telegra.ph/file/58ac12291c653b68eb222.png" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Sooka",132 Drama Hebat
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Sooka",133 Drama Hotpot
+#EXTINF:-1 ch-number="133" tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Sooka",133 Drama Hotpot
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="Sooka",134 Lawak Sentral
+#EXTINF:-1 ch-number="134" tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="Sooka",134 Lawak Sentral
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
 
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png" group-title="Sooka",135 Travel & Taste
+#EXTINF:-1 ch-number="135" tvg-id="x.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png" group-title="Sooka",135 Travel & Taste
 https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
