@@ -3340,7 +3340,7 @@ https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png", CITRA HD
 https://smt.sky4k.eu.org/AEC_V6/index.php?id=AstroCitraHD
 
-EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Sooka",131 Filem Mantap
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Sooka",131 Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" group-logo="https://telegra.ph/file/58ac12291c653b68eb222.png" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Sooka",132 Drama Hebat
@@ -3775,7 +3775,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5107/default.mpd
 
-EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Sooka",131 Filem Mantap
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Sooka",131 Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
 #EXTINF:-1 tvg-id="x.astro" group-logo="https://telegra.ph/file/58ac12291c653b68eb222.png" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Sooka",132 Drama Hebat
