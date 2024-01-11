@@ -11,6 +11,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
+#EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
 #EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
@@ -179,6 +182,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 #EXTINF:-1 tvg-id="Arirang" group-title="NEWS" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="CCTV4" group-title="NEWS" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",CCTV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default.mpdd
+
 #EXTINF:-1 tvg-id="NHKWorld" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
@@ -187,7 +195,7 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 #EXTINF:-1 ch-number="801" tvg-id="AstroArena" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
