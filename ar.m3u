@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
+
 #EXTINF:-1 tvg-id="Androidrepublica" tvg-name="Androidrepublica" tvg-logo="https://raw.githubusercontent.com/androidrepublica/icons/master/ARMC-logo.png" tvg-chno="0" channel-id="0" group-title="MYSG",Androidrepublica
 https://bit.ly/seOnlyla
 
