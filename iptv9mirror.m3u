@@ -587,7 +587,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5097/default.mpd
 
 #EXTINF:-1 tvg-id="GlobalTrekker" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#KODIPROP:inputstream.adaptive.license_key={"4dc56e6ee6244bb693065edb7dbcb009": "650398355fa33caed301c53e71523bb9"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
 
 #EXTINF:-1 tvg-id="LoveNature" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild
