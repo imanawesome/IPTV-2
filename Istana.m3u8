@@ -355,7 +355,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/manifest.mpd
 #EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
