@@ -223,30 +223,36 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 #EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="Berita",Africa News
 https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="Berita",BBC World News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 #EXTINF:-1 tvg-id="Blo.News" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="Berita",Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaBEsw1k9cN+bUXVA8uygA", "kid":"2xNDVFriXd7PjfpEIvNUEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 #EXTINF:-1 tvg-id="CBSN.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="Berita",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CGN.News" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="Berita",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Berita",CNN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 #EXTINF:-1 tvg-id="Dwe.News" tvg-logo="http://static.epg.best/de/DeutscheWelleEn.de.png" group-title="Berita",DW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EUR.News" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="Berita",EuroNews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 tvg-ID="Fra.News" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="Berita",France 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 #EXTINF:-1 tvg-id="Fox.News" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="Berita",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -259,8 +265,10 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-id="RT.News" tvg-logo="http://static.epg.best/ru/RTInternational.ru.png" group-title="Berita",RT
 http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 #EXTINF:-1 tvg-id="Sky.News" tvg-ID="Sky.News" tvg-logo="http://static.epg.best/uk/SkyNews.uk.png" group-title="Berita",Sky News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default.mpd
 #EXTINF:-1 tvg-id="TLS.News" tvg-logo="http://static.epg.best/es/Telesur.es.png" group-title="Berita",Telesur
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
@@ -602,9 +610,9 @@ https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
 #EXTINF:-1 tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="Hindustan(हिन्दी)",Colors
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0mY29udGV4dFR5cGU9bm9uZSZpZD04ODQyMzcyIiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2hkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZBVk1lOVg2REVWQ1liVG42OGtUYkloX25jVExRRHdnMTliMkVSek91NUZ4SW5LRVNjNzFUcWZXaFR3aDBneUtYUTVvWUZrY2VSZlpuemxIcEJKRjJYU19hZ0ZqS0FlSENtbF84OV9LeWt0bVBSLVRyb0pyc2NoSmxqU3h1MXRHZnFqdkk0ZU1DQ0NFQ0RDSWFkYWhPRlA4aFNKclJRVllTdTVMY2pibkZhSFd5SjhfZFVMcGxTbUtjRi1GU3Y4akE0VGxvSm9DZXFwMndpdkxBS1NQVVY3amsxR2pjdXZYanFRQjl6OF9CTzZUMkxudnRkSHhERHkzYU9xQkVGNEJtbXBGZWphbm00alFBNm9kT1hRQkhaNkx4VUpubjVjdmVNMDZBcUdINGJkZVJWcUtSclJFSUZKZENSemtqc1I4WXBCWEJnejBzUWE1amhxZWtyRUVBSFhFSzZUUWpxX2UxWGhMYVQyQWxiN1RSVlNOR0N5THBDUDVKMmZ0Nlg1cXBRPT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=q%2bY3g5Ki0M%2bHftn%2byV%2b%2fdU14Z4g%3d
-https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
 
 #EXTINF:-1 tvg-id="NTI.IN" tvg-logo="https://static.epg.best/in/NDTVIndia.in.png" group-title="Hindustan(हिन्दी)",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@3.m3u8
@@ -618,9 +626,17 @@ https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
 #EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="Hindustan(தமிழ்)",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="STV.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Star Vijay
-http://185.246.210.54:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 #EXTINF:-1 tvg-id="SUM.IN" tvg-logo="https://static.epg.best/in/SunMusic.in.png" group-title="Hindustan(தமிழ்)",Sun Music
-http://185.246.210.54:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default.mpd
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="Hindustan(தமிழ்)",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="Hindustan(தமிழ்)",Vaanavil
