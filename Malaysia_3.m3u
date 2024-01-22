@@ -165,12 +165,16 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 
 -------------------AND FLIX------------------------------------
 #EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282632&extension=ts
+#####http://103.132.181.118:82/play/a00x
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116484&extension=ts&play_token=8elHzUlVi6
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155990&extension=ts&play_token=8elHzUlVi6
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282632&extension=ts
 ------------------------------------------------------------------
 
 -------------------AND PRIVE------------------------------------
 #EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155746&extension=ts
 ------------------------------------------------------------------
 
 -------------------SONY MAX------------------------------------
@@ -257,22 +261,22 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
 -------------------Star Movies Select HD------------------------------------
 #EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
-https://m3u-editor.com/serve/87b1cc30-842b-11eb-a2ae-452546d1a844/238799681
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=155729&extension=ts
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155729&extension=ts
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116489&extension=ts&play_token=vOBlxrufX5
 ------------------------------------------------------------------
 
 -------------------Star Movies HD------------------------------------
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="MOVIES",Star Movies HD
-https://bit.ly/2PLvTjX
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282639&extension=ts&play_token=1PvUcweHaG
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155727&extension=ts&play_token=1PvUcweHaG
 ------------------------------------------------------------------
 
 -------------------SONY PIX------------------------------------
 #EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
-#http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
-#http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17287.m3u8?checkedby:hlscat.com
-#http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48142&output=m3u8
-#http://185.246.210.51:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
-#http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=7536907
-https://bit.ly/3waet0B
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 ------------------------------------------------------------------
 
 -------------------Colors Infinity HD------------------------------------
@@ -282,12 +286,14 @@ http://4kiptv.vip:25461/027265666923/x4lTlYt3ok/93649
 
 -------------------MN+ HD------------------------------------
 #EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
-https://bit.ly/3dloqj3
+http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=156025&extension=ts
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=156025&extension=ts
 -------------------------------------------------------------
 
 -------------------Movies Now HD------------------------------------
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
-https://bit.ly/3m7eYnn
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116477&extension=ts
+#####http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282651&extension=ts&play_token=8elHzUlVi6
 -------------------------------------------------------------
 
 -------------------Romedy Now HD------------------------------------
@@ -297,7 +303,7 @@ https://bit.ly/3dSDwgh
 
 -------------------MNX HD------------------------------------
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
-https://bit.ly/3rCPyPV
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=156021&extension=ts
 -------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 01
