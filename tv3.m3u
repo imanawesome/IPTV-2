@@ -91,7 +91,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mp
 http://freeview.mywire.org:9090/streams/kabillion.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Kids" tvg-logo="https://freeview.github.io/logos/pbskids.png",PBS Kids
-http://freeview.mywire.org:9090/streams/pbskids.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="News" tvg-logo="https://freeview.github.io/logos/awani.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
@@ -108,9 +108,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://freeview.github.io/logos/bloomberg.png",Bloomberg TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eaBEsw1k9cN+bUXVA8uygA","kid":"2xNDVFriXd7PjfpEIvNUEA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="https://freeview.github.io/logos/cgtn.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
