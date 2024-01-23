@@ -34,7 +34,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default_primary.mp
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="125" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",125 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" } 
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="126" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",126 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
