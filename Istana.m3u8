@@ -23,31 +23,33 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singpura",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
+#EXTINF:-1 tvg-ID="TV1" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia",TV2
+#EXTINF:-1 tvg-ID="TV2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+#EXTINF:-1 tvg-ID="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
+#EXTINF:-1 tvg-ID="TV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/140px-TV6_RTM.png" group-title="Malaysia",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-ID="DidikTVKPM" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FyYINQnVcLXeRzCrnzOMww", "kid":"5QlzW1+JdQ1CrOJBDq1yEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
+#EXTINF:-1 tvg-ID="8TV" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+#EXTINF:-1 tvg-ID="TV9" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
-#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png" group-title="Malaysia",Berita RTM 
+#EXTINF:-1 tvg-ID="BREITARTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png" group-title="Malaysia",Berita RTM 
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
+#EXTINF:-1 tvg-ID="TVSUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia",OKEY
+#EXTINF:-1 tvg-ID="OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Malaysia",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
