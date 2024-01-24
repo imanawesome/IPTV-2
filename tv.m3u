@@ -68,6 +68,11 @@ https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
+#EXTINF:-1 tvg-id="AstroAEC" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png",Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
 #EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="ENTERTAINMENT",Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
