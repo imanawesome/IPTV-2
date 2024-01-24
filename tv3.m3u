@@ -47,16 +47,46 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mpd
 
+#EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" } 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/ikim.png",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/goshop.png",Go Shop MYTV
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
+#EXTINF:-1 tvg-id="AstroVaanavil" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png",Astro Vaanavil
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
+
+#EXTINF:-1 tvg-id="AstroAEC" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/80_144.png",Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"p+UHiLPygTyQoXR5xtLNaA", "kid":"euZHm2z/SQ20kTzX7K72LQ" } ], "type":"temporary" }
+https://d1fk7kbmz4il3.cloudfront.net/CH4/masterCH4.mpd
+
 #EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-title="Malaysia" ch-number="603",Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rtncAgOHJarb0Me9FwkkCw", "kid":"iCm49NkdJjDzmMZ+2UwjEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
+
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Malaysia",Filem Mantap
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Malaysia",Drama Hebat
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Malaysia",Drama Hotpot
+https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="Malaysia",Lawak Sentral
+https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png" group-title="Malaysia",Travel & Taste
+https://linearfast05.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_5_Ad/dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
