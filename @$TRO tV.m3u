@@ -13,7 +13,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,7 +63,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default_primary.m
 #EXTINF:-1 tvg-id="HBOHits1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="ASTRO",HBO HITS
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=90480f571f5d410891d7add7103c1e84&key=b64f887d2480bcaea992c2f0826449a9
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE" group-title="ASTRO",HBO SIGNATURE
-https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
