@@ -55,6 +55,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.m
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/ikim.png",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
+#EXTINF:-1 tvg-id="TVAlhijrah" group-title="Malaysia" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/goshop.png",Go Shop MYTV
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
