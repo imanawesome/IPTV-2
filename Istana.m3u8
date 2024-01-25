@@ -1670,29 +1670,29 @@ https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroAOD311" ch-number=" " tvg-name="Astro AOD HD 311" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Asia",Astro AOD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dteB6K/4Pv5TOVrXhOfSA", "kid":"oMHwDxR3ez2vSpEsQxDxEA" } ], "type":"temporary" } 
 #EXTINF:-1, tvg-id="AstroAOD352" ch-number=" " tvg-name="Astro AOD 352" group-title="Asia" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroAOD534" ch-number=" " tvg-name="Astro AOD 354" ch-number="354" group-title="Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109",Astro AOD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OKaMdJiYEUzwYp134kaoiA", "kid":"aRkWFkvisa5shS8ZkNH+EA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OvWAx7IYQAMBefTcrSJ8ig", "kid":"XMXAH2YVlZUkX+iuZ5ELEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number=" " tvg-name="Astro Xiao Tai Yang HD" ch-number="AstroXiaoTaiYang" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/387_144.png" group-title="Asia",Astro Xiao Tai Yang  
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2711/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0TvPDKbmLXG2xN1w1f/qsg", "kid":"M1ZnBdY/VvHTHEX2lWjtEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number=" " tvg-name="Astro Shuang Xing HD" ch-number="307" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/183_144.png" group-title="Asia",Astro Shuang Xing 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 #EXTINF:-1 tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="Asia",Hunan TV(Cina)
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="Asia",CCTV-4(Cina)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hCVpDEhE+7AbXq5wa8L3xg","kid":"2xozj3HUAYb1mXywhbs/EA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
 #EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="Asia",Formosa TV(Taiwan)
 http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="Asia",DAAI 1(Taiwan)
@@ -1704,39 +1704,39 @@ https://cdnbpp1.useetv.com/joss/15/wakuwaku/chunklist_w709969664_b894100_sleng_3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="IQIYI" ch-number=" " tvg-name="IQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Asia",iQIYI 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Asia",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RLQjp33TSs4WLbNcuw+2ow", "kid":"mIF7FEvPGf0N3Kf+VM7hEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd
 #EXTINF:-1 tvg-id="TVBMagic" ch-number="124" group-title="Asia"group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png",TVB Magic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"61ss7EhVFCFvfCXRAquKEw", "kid":"SaENBhDnALSyDdHJGi/DEA" } ], "type":"temporary" } 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5107/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TVBClassic" ch-number="TVBClassic" ch-number=" " tvg-name="TVB Classic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="Asia",TVB Classic  
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="TVBJade" ch-number=" " tvg-name="TVB Jade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Asia",TVB Jade
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"r3EKBv1nl1uZ20pHp1e4Sw","kid":"+mKcNkDOUzx1VQn2f3XmEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="TVBEntertainmentNews" ch-number=" " tvg-name="TVB Entertainment News HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-title="Asia",TVB Entertainment News 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
 ##EXTINF:-1 tvg-id="TVBXingHe" ch-number="TVBXingHe" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png" group-title="Asia",TVB Xing He 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TVBSAsia" ch-number="TVBSAsia" ch-number=" " tvg-name="TVBS Asia HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="Asia",TVBS Asia 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H9+Erb4F2Bg9FAuaLhFqlg", "kid":"NohqOcENsdQLR1qoz39rEA" } ], "type":"temporary" }
 ##EXTINF:-1 tvg-id="TVBSNews" ch-number="TVBSNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png" group-title="Asia",TVBS News 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5008/default_primary.mpd
 #EXTINF:-1 tvg-id="tvN.Asia" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="Asia",tVN Asia(Korea)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
