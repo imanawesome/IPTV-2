@@ -16,7 +16,7 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="DidikTV KPM" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MYSG",NTV7
 https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -109,13 +109,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/default.mpd
 
 #EXTINF:-1 tvg-id="GoShopRUUMA" tvg-name="Astro Go" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="20" channel-id="20" tvg-group="MY/SG" group-title="MYSG",Go Shop RUUMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=66a233a633db6f5137a7b4b1e27bed10&key=f2e7dbef2f0baf924d93f3e0c1a598fa
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2501/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/p637HSmw2bkhE2VBnd8w", "kid":"YfOg21DmD1/4Z8Irbgt5EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2501/default_primary.mpd
 
 #EXTINF:-1 tvg-id="GoShopGAAYA" tvg-name="Astro Go 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png" tvg-chno="21" channel-id="21" tvg-group="MY/SG" group-title="MYSG",Go Shop GAAYA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6458dac9edfe282465c7b0cd1ca0e010&key=9181b8041ae036047abde8a674d31b90
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/507/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"I/N7gJBxWt5eH9sMhJZ9Tw", "kid":"HdDP+u1Ln8p9Tij6QpWmEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2508/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" tvg-name="Astro Tayangan Hebat 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png" tvg-chno="60" channel-id="60" group-title="MYSG",ABO Movies Thangathirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,7 +124,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2109/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremier" tvg-name="Astro Tayangan Hebat 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png" tvg-chno="61" channel-id="61" group-title="MYSG", Astro Box Office Bollyone HD
+#EXTINF:-1 tvg-id="AstroPremier" tvg-name="Astro Tayangan Hebat 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png" tvg-chno="61" channel-id="61" group-title="MYSG", Astro Premier
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="https://static.epg.best/uk/CBeebies.uk.png" tvg-chno="22" channel-id="22" group-title="MYSG",CBeebies
@@ -132,7 +132,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:-1 tvg-id="SUKANRTM" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="MYSG",RTM Sports HD
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="MYSG",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -214,7 +214,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_7
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-name="RTB Sukmaindera" tvg-logo="https://static.epg.best/pt/RtpMadeira.pt.png" tvg-chno="43" channel-id="43" group-title="MYSG",RTB Sukmaindera
-http://freeview.mywire.org:9090/streams/rtbsukma.m3u8
+#EXTVLCOPT:network-caching=1000 
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="GEGAR" tvg-name="THR GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" tvg-chno="45" channel-id="45" radio="true" group-title="MYSG",THR GEGAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -269,12 +270,12 @@ http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png" group-title="Malaysia",UNIFI SPORTS 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png" group-title="Malaysia",UNIFI SPORTS 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+https://unifi-live12.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png" group-title="Malaysia",UNIFI SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
