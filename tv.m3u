@@ -185,7 +185,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1920px-Russia-today-logo.svg.png",RT
-https://fvtv.mywire.org/streams/youtube/ch_rt.m3u8|Referer=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RTEnglish
+https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #EXTINF:-1 tvg-id="SkyNews" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
