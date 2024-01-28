@@ -337,7 +337,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mp
 
 #EXTINF:-1 tvg-id="HITSNow" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/503_1920x1080_HTV.png",FOX Crime 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5110
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 
 #EXTINF:-1 tvg-id="FOX" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716073811029jld.png",FOX Life
@@ -459,7 +459,7 @@ http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
 #EXTINF:-1 tvg-id="DMAX" group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",Dmax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
 
 
 
