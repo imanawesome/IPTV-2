@@ -164,7 +164,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://freeview.github.io/logos/rt.png",RT
-http://freeview.mywire.org:9090/streams/rt.m3u8
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RTEnglish
+https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #EXTINF:-1 tvg-id="SkyNews" group-title="News" tvg-logo="https://freeview.github.io/logos/skynews.png",Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
