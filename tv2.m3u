@@ -108,20 +108,14 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #EXTINF:-1 tvg-id=" " group-title="MYSG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#EXTINF:-1 tvg-id=" " group-title="ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/NetTV-HD
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-id="NET.id" group-title="ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/TVOne
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 tvg-id="tvOne.id" group-title="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/7/7e/TvOne_Logo%282011%29.svg/500px-TvOne_Logo%282011%29.svg.png",tvOne
+https://github.com/AqFad2811/randomlivefromyt3/raw/main/tvOne.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
