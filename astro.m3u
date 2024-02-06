@@ -1,5 +1,15 @@
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 tvg-id="LongLongFun" group-title="Chinese" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",100 Long Long Fun
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5112
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5112/default.mpd
+
+#EXTINF:-1 tvg-id="LongLongFun" group-title="Chinese" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/LongLongFunV1.png",100 Long Long Fun (Backup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5112
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5112/default.mpd
+
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
