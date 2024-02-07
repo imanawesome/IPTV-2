@@ -200,7 +200,7 @@ http://freeview.mywire.org:9090/streams/pbs.m3u8
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Documentary" tvg-logo="https://freeview.github.io/logos/nasa.png",NASA TV
-http://freeview.mywire.org:9090/streams/nasatv.m3u8|Referer=https://www.nasa.gov
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="Entertainment" tvg-logo="https://freeview.github.io/logos/comedycentral.png",Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=clearkey
