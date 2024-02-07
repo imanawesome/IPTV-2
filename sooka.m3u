@@ -50,6 +50,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
 https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5103
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/qj/
 #EXTINF:-1 tvg-id="AstroQJ" ch-number="308" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",308 Astro QJ
