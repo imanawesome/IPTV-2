@@ -407,3 +407,247 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2627
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
+
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ACNCinema.in" tvg-name="ACN Cinema" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Movies",ACN Cinema (1080p)
+http://ammacable.com:1935/acn/acncinema/playlist.m3u8
+#EXTINF:-1 tvg-id="AkudjiTV.ru" tvg-name="Akudji TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Akudji TV
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Amedia Hit
+http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Amedia Hit
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="AmericanClassics.us" tvg-name="American Classics" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" tvg-url="" group-title="Movies",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-name="Animax Japan" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="Movies",Animax Japan (720p)
+http://180.92.158.208:9981/stream/channelid/806982131
+#EXTINF:-1 tvg-id="AXN.us" tvg-name="AXN" tvg-country="US" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Movies",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Bflix Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="Bollywood.in" tvg-name="Bollywood" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Bollywood (480p)
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-name="Bollywood HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Bollywood HD
+http://89.106.234.5:80/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="BollywoodHD.ru" tvg-name="Bollywood HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" tvg-url="" group-title="Movies",Celestial Movies (480p)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" tvg-url="" group-title="Movies",Charge! (720p)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 tvg-id="ClassicCinema.us" tvg-name="Classic Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tC4AePW.png" tvg-url="" group-title="Movies",Classic Cinema (240p)
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" tvg-url="" group-title="Movies",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-id="FilmTV.ua" tvg-name="Film TV" tvg-country="INT" tvg-language="Ukrainian;Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Film TV
+http://filmtv.zapto.org:8050/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseClassics.us" tvg-name="Filmrise Classics" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseCrime.us" tvg-name="Filmrise Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-url="" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseCrime.us" tvg-name="Filmrise Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BDtkjpS.png" tvg-url="" group-title="Movies",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FilmriseMovies.us" tvg-name="Filmrise Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQZdGc0.png" tvg-url="" group-title="Movies",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png" tvg-url="" group-title="Movies",Flim Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxLifeRussia.us" tvg-name="Fox Life Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Fox Life Russia (576p)
+http://51.68.140.190:8081/tv/fox-life/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxRussia.us" tvg-name="Fox Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Fox Russia
+http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="GEMAcademy.ir" tvg-name="GEM Academy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemusa.png?14" tvg-url="" group-title="Movies",GEM Academy [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMBollywood.ir" tvg-name="GEM Bollywood" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngYiu1KZP_kImji9D0I57-kcflih6u6QQNgbAoz=s900-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Movies",GEM Bollywood [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMComedy.ir" tvg-name="GEM Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="http://tvlogo.xyz/iran/gem-comedy.png" tvg-url="" group-title="Movies",GEM Comedy [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMDrama.ir" tvg-name="GEM Drama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/gemdrama.png" tvg-url="" group-title="Movies",GEM Drama [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMFilm.ir" tvg-name="GEM Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png?14" tvg-url="" group-title="Movies",GEM Film [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMSeries.ir" tvg-name="GEM Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj7XoA_0-cBBgQu18axtCsfYKv_2JIttywmrUfw=s900-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Movies",GEM Series [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GEMTv.ir" tvg-name="GEM Tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQEXJn2GhXCwrg/company-logo_200_200/0/1519922542997?e=2159024400&v=beta&t=aSDLR93A3W1bT5IjnzcojcMfTPNm1Uro97Tg5C28otM" tvg-url="" group-title="Movies",GEM Tv [Geo-blocked]
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" tvg-url="" group-title="Movies",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GRAVITASMOVIESSTIRR.us" tvg-name="GRAVITAS MOVIES (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png" tvg-url="" group-title="Movies",GRAVITAS MOVIES (STIRR)
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-name="Groovy TV" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-url="" group-title="Movies",Groovy TV (532p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FMgtqM8.jpg" tvg-url="" group-title="Movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us" tvg-name="Hallmark Drama" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RHbmKUV.jpg" tvg-url="" group-title="Movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-url="" group-title="Movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-name="Hallmark Movies & Mysteries" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IytaaVV.jpg" tvg-url="" group-title="Movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="German" tvg-logo="" tvg-url="" group-title="Movies",ID HD (JKT)
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 tvg-id="iFILMArabic.ir" tvg-name="iFILM Arabic" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" tvg-url="" group-title="Movies",iFILM Arabic (720p)
+https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="iFILMEnglish.ir" tvg-name="iFILM English" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" tvg-url="" group-title="Movies",iFILM English
+https://live1.presstv.com/live/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFILMPersian1.ir" tvg-name="iFILM Persian 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/El4Ymh6.png" tvg-url="" group-title="Movies",iFILM Persian 1 (720p)
+https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="iFILMPersian2.ir" tvg-name="iFILM Persian 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" tvg-url="" group-title="Movies",iFILM Persian 2
+https://live1.presstv.com/live/ifilm2.m3u8
+#EXTINF:-1 tvg-id="ItsAtTheMovies.us" tvg-name="It’s At The Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zJ5idav.jpg" tvg-url="" group-title="Movies",It’s At The Movies (480p)
+https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/GbQuvWG.png" tvg-url="" group-title="Movies",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-name="Kuriakos Cine" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-url="" group-title="Movies",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in" tvg-name="Maha Movie" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Maha Movie (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Movies",Manoranjan Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 tvg-id="MaverickMovies.us" tvg-name="Maverick Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Zk5wP5K.png" tvg-url="" group-title="Movies",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC 2 (1080p)
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Max (1080p)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MilleniumTV.ru" tvg-name="Millenium TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Millenium TV (1080p)
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MilleniumTV.ru" tvg-name="Millenium TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Millenium TV (540p)
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Movee4U.us" tvg-name="Movee 4U" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K6XKJTr.jpg" tvg-url="" group-title="Movies",Movee 4U (480p)
+https://nimble.dashstreams.net/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieKingdom.us" tvg-name="Movie Kingdom" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-url="" group-title="Movies",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="MovieMixSTIRR.us" tvg-name="Movie Mix (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/7dfc8d97-0c37-40f0-b251-5eacf509d891-small3x1_stirr_1219_epg_moviemix_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-url="" group-title="Movies",Movie Mix (STIRR)
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:-1 tvg-id="MoviesKingdom.us" tvg-name="Movies Kingdom" tvg-country="US;UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-id="MoviesphereFree.us" tvg-name="Moviesphere Free" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DTXQ3Pc.png" tvg-url="" group-title="Movies",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000STIRR.us" tvg-name="Mystery Science Theater 3000 (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ee454d3c-4cbe-4bda-a056-56d037c28705-small3x1_STIRR_Logo_0320_MysteryScienceTheater3000_1920x1080_EPG_2.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-url="" group-title="Movies",Mystery Science Theater 3000 (STIRR)
+https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
+#EXTINF:-1 tvg-id="Mythos.us" tvg-name="Mythos" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JBEqPZP.png" tvg-url="" group-title="Movies",Mythos (720p)
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+#EXTINF:-1 tvg-id="NewTVWeiLaiDianShiDongZuoDianYing.cn" tvg-name="NewTV未来电视 动作电影" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",NewTV未来电视 动作电影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-name="Raj Digital Plus" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/raj_digital_plus-1.png" tvg-url="" group-title="Movies",Raj Digital Plus (404p)
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD (1080p)
+https://hiplayer.hibridcdn.net/p/rotana-cinema
+#EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema HD" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-name="Rotana Cinema HD KSA" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Rotana Cinema HD KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="SanthoraShortFlim.in" tvg-name="Santhora Short Flim" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" tvg-url="" group-title="Movies",Santhora Short Flim (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="Screamfest.us" tvg-name="Screamfest" tvg-country="US" tvg-language="English" tvg-logo="https://app.digitickets.co.uk/userfiles/companies/screamfestlogo.300x150.png" tvg-url="" group-title="Movies",Screamfest (720p)
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:-1 tvg-id="Screamfest.us" tvg-name="Screamfest" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kmHryT4.png" tvg-url="" group-title="Movies",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 tvg-id="ShemarooBollywoodClassic.in" tvg-name="Shemaroo Bollywood Classic" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/cMJVuIr.jpg" tvg-url="" group-title="Movies",Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Shot TV
+http://37.17.14.149:8905/play/a00m
+#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Shot TV
+https://ch.iptvmate.net/5e933c221b143b0b9d00807a.m3u8
+#EXTINF:-1 tvg-id="STIRRBlackCinema.us" tvg-name="STIRR Black Cinema" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Black Cinema (720p)
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
+#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-name="STIRR Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Movies (720p)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-id="STIRRWesterns.us" tvg-name="STIRR Westerns" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Movies",STIRR Westerns (720p)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Movies",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
+#EXTINF:-1 tvg-id="TheAsylum.us" tvg-name="The Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1pxXEtP.png" tvg-url="" group-title="Movies",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ukKFllt.jpg" tvg-url="" group-title="Movies",The Film Detective
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",The Film Detective (720p)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="Movies",Thrill (480p)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="TVBNO.br" tvg-name="TV BNO" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ejp65zr.png" tvg-url="" group-title="Movies",TV BNO (270p)
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+#EXTINF:-1 tvg-id="TVCinec.br" tvg-name="TV Cinec" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/bEoN2tt.png" tvg-url="" group-title="Movies",TV Cinec (720p)
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1 tvg-id="TVXXI.ru" tvg-name="TV XXI" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",TV XXI (576p)
+http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1000WorldKino.se" tvg-name="TV1000 World Kino" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",TV1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us" tvg-name="TVS Drive In Movie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg" tvg-url="" group-title="Movies",TVS Drive In Movie (360p)
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-id="ViPMegahitRussia.se" tvg-name="ViP Megahit Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",ViP Megahit Russia
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1 tvg-id="ViPPremiereRussia.se" tvg-name="ViP Premiere Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",ViP Premiere Russia
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1 tvg-id="WarnerTV.us" tvg-name="Warner TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="Wixlar.gr" tvg-name="Wixlar" tvg-country="GR" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/hfia0wN.png" tvg-url="" group-title="Movies",Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",WOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.us" tvg-name="WOW! TV" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",WOW! TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" tvg-url="" group-title="Movies",Zee Mundo (720p)
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeMundo.in" tvg-name="Zee Mundo" tvg-country="IN" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" tvg-url="" group-title="Movies",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кинo" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дом кинo
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дом кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-name="Дом Кино Премиум HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="Dorama.uk" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="" group-title="Movies",Дорама
+http://188.40.68.167/russia/dorama/playlist.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lHn6OlM.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дорама (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lHn6OlM.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Дорама
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="ElArna.kz" tvg-name="Ел Арна" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Ел Арна
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-name="Киномикс" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киномикс
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinopremera.ru" tvg-name="Кинопремьера" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносвидание
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносвидание
+https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinosemya.ru" tvg-name="Киносемья" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Киносемья
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="Кинохит" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Кинохит
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="Кинохит" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Кинохит
+https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KlassikaKino.ru" tvg-name="Классика Кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Классика Кино (720p)
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
+#EXTINF:-1 tvg-id="Mirseriala.ru" tvg-name="Мир сериала" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Мир сериала
+http://188.40.68.167/russia/mir_seriala/playlist.m3u8
+#EXTINF:-1 tvg-id="Premera.ru" tvg-name="Премьера" tvg-country="INT" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",Премьера
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 tvg-id="STRK.ru" tvg-name="СТРК" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Movies",СТРК
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="HeiMeiDianYing.cn" tvg-name="黑莓电影" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",黑莓电影
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
