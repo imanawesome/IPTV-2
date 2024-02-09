@@ -223,7 +223,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-id="TennisChannelHD.us" tvg-name="Tennis Channel HD" tvg-logo="https://i.imgur.com/wcmQ30R.png" group-title="SPORT",Tennis Channel HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-name="Pluto TV Sports" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="New",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="FoxSportspluto.us" tvg-name="Fox Sports pluto" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="New",Pluto TV Fox Sports pluto (720p)
