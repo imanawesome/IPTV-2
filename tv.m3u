@@ -2,14 +2,23 @@
 
 #EXTINF:-1 tvg-id="TV1" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5027
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -18,16 +27,25 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4EDKKqQm33ibo4S6VhiRtA", "kid":"R6Ega0SCLIkyDnCRbPV7DA" } ], "type":"temporary" }
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FyYINQnVcLXeRzCrnzOMww", "kid":"5QlzW1+JdQ1CrOJBDq1yEA" } ], "type":"temporary" }
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
 #EXTINF:-1 tvg-id="8TV" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Edoa02jQys/+SCS2s14itw", "kid":"DLeYDp0diVf5opPtljQkEA" } ], "type":"temporary" }
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV9" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+# #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+# #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lY6ctzieIJSN5aVC0nKezw", "kid":"J4KHJ/CjoLT7xmg3jM+MEA" } ], "type":"temporary" }
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
@@ -36,6 +54,9 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5072/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #EXTINF:-1 tvg-id="AstroRania" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,32 +172,51 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 https://github.com/AqFad2811/randomlivefromyt3/raw/main/tvOne.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/astroawani.m3u8
+# https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5025/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #EXTINF:-1 tvg-id="BERNAMA" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BERITA RTM" group-title="NEWS" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+# https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-id="CNA" group-title="NEWS" tvg-logo=https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=605/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg 
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5020/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 
 #EXTINF:-1 tvg-id="CGTN" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5019/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 
 #EXTINF:-1 tvg-id="DW" group-title="NEWS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=9984/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
 #EXTINF:-1 tvg-id="France24" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1920px-FRANCE_24_logo.svg.png",France24
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/France24.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=9985/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1920px-Russia-today-logo.svg.png",RT
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -194,6 +234,9 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="NEWS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+# #KODIPROP:inputstream.adaptive.license_type=clearkey
+# #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2110/
+# https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 
 #EXTINF:-1 tvg-id="Arirang" group-title="NEWS" tvg-logo="http://arirang.com/images/index/arirang.png",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
