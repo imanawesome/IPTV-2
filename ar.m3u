@@ -46,7 +46,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png" tvg-chno="59" channel-id="59" group-title="MYSG",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Naura" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png" tvg-chno="10" channel-id="10" group-title="MYSG",Naura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
