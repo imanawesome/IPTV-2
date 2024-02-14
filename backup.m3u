@@ -13,7 +13,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="SUKANRTM" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="Malaysia",RTM Sports HD
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="Malaysia",RTM Sports HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/vHcWdsP/image.png" tvg-chno="113" channel-id="113" group-title="Malaysia",TV6
@@ -166,10 +166,16 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="Channel NewsAsia" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" tvg-chno="28" channel-id="28" tvg-group="MeWatch SG" group-title="MYSG",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
+# https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" tvg-chno="29" channel-id="29" tvg-group="News" group-title="MeWatch SG",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
+# https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 ## Radio ##
 
