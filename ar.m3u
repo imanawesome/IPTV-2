@@ -168,10 +168,16 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 #EXTINF:-1 tvg-id="CNA" tvg-name="Channel NewsAsia" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" tvg-chno="28" channel-id="28" tvg-group="MY/SG" group-title="MYSG",Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
+# https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" tvg-chno="29" channel-id="29" tvg-group="News" group-title="MYSG",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
+# https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="SABCNews.za" tvg-name="ABC News" tvg-logo="https://static.epg.best/za/SABCNews.za.png" tvg-chno="30" channel-id="30" tvg-group="MYSG" group-title="MYSG",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_21.m3u8
@@ -185,17 +191,22 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_primary.mpd
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://static.epg.best/cn/CGTNEnglish.cn.png" tvg-chno="33" channel-id="33" tvg-group="MYSG" group-title="MYSG",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
+# https://live.cgtn.com/1000/prog_index.m3u9
 
-#EXTINF:-1 tvg-id="WRDW.us" tvg-name="DW" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-chno="34" channel-id="34" tvg-group="MYSG" group-title="MYSG",DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.dw.com/cssi/dwlogo-print.gif" tvg-chno="34" channel-id="34" tvg-group="MYSG" group-title="MYSG",DW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E7uCnOSDbM90BxxFmTl4xQ", "kid":"ft871ZDPM39yGi5b7DYVEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
+# https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="France24" tvg-name="France24" tvg-logo="https://static.epg.best/fr/France24.fr.png" tvg-chno="35" channel-id="35" tvg-group="MYSG" group-title="MYSG",France24
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dtQJ/8TqoBLGHYwxvRPfXQ", "kid":"Owwc69DEUY1gD1LDVO0ZEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
+# https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/France24.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" tvg-chno="36" channel-id="36" tvg-group="MYSG" group-title="MYSG",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
@@ -281,16 +292,16 @@ https://unifi-live12.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport3.png" group-title="Malaysia",UNIFI SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport4.png" group-title="Malaysia",UNIFI SPORTS 4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-ID=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/unifisport5.png" group-title="Malaysia",UNIFI SPORTS 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
