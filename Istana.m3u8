@@ -1272,27 +1272,27 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Malaysia",Filem Mantap
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" group-title="Lokal",Filem Mantap
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Malaysia",Drama Hebat
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png" group-title="Lokal",Drama Hebat
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Malaysia",Drama Hotpot
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Lokal",Drama Hotpot
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="Malaysia",Lawak Sentral
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" group-title="Lokal",Lawak Sentral
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png" group-title="Malaysia",Travel & Taste
+#EXTINF:-1 tvg-id="x.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png" group-title="Lokal",Travel & Taste
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
