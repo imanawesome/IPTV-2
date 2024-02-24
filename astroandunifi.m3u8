@@ -242,10 +242,10 @@ https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-#EXTINF:-1 ch-number="133" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Malaysia",133 Drama Hotpot
+#EXTINF:-1 ch-number="133" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Sooka",133 Drama Hotpot
 https://linearfast04.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd
 
-#EXTINF:-1 ch-number="133" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Malaysia",133 Drama Hotpot
+#EXTINF:-1 ch-number="133" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png" group-title="Sooka",133 Drama Hotpot
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
@@ -858,7 +858,7 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hy
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",701 Nasional FM
+#EXTINF:-1 group-title="Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",701 Nasional FM
 https://23693.live.streamtheworld.com/NASIONAL_FMAAC.aac
 
 #EXTINF:-1 ch-number="702" tvg-id="HITSNow" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="Entertainment",702 HITS Now 
@@ -871,7 +871,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 #EXTINF:-1 ch-number="702" tvg-id="HITSNow" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="Entertainment",702 HITS Now (Sooka)
 https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",702 Traxx FM
+#EXTINF:-1 group-title="Radio" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",702 Traxx FM
 https://23733.live.streamtheworld.com/TRAXX_FMAAC.aac
 
 #EXTINF:-1 ch-number="703" tvg-id="Lifetime" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png",703 Lifetime 
@@ -879,7 +879,7 @@ https://23733.live.streamtheworld.com/TRAXX_FMAAC.aac
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",703 Minnal FM
+#EXTINF:-1 group-title="Radio" ch-number="703" tvg-id="703" tvg-chno="703" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",703 Minnal FM
 https://23733.live.streamtheworld.com/MINNAL_FMAAC.aac
 
 ##EXTINF:-1 ch-number="704" tvg-id="Primetime" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png",704 PRIMEtime
@@ -887,10 +887,10 @@ https://23733.live.streamtheworld.com/MINNAL_FMAAC.aac
 #KODIPROP:inputstream.adaptive.license_key=f998ad175003b9f6d40fb5c92f19e210:65372a3148e3a622b4229fd86ea4e160
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5049/default.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",704 Ai FM
+#EXTINF:-1 group-title="Radio" ch-number="704" tvg-id="704" tvg-chno="704" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",704 Ai FM
 https://23693.live.streamtheworld.com/AI_FMAAC.aac
 
-#EXTINF:-1 group-title="radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",705 Radio Klasik
+#EXTINF:-1 group-title="Radio" ch-number="705" tvg-id="705" tvg-chno="705" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",705 Radio Klasik
 https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
 #EXTINF:-1 ch-number="706" tvg-id="HITS" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",706 HITS
@@ -903,7 +903,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz 
 https://web.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawWP5a6lzyDPJ57LXeuC05Cs44sM6v4Pb96oLcepTGODErcymHBIhx5oJP4jv2fPK0%3D%3A20230206101724%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101724%2Curn:Huawei:liveTV:XTV100000161%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy27CMBRE_8ZLK3YehIVXIKRKVahE6Laa2NcmihODHZD695A2bGfmjM4coeljr1B2dV7Zqsu1LeoS2EhRk611tu2MFYYlujVBSabhfT-5JpgF-z7tfkTGMy6l4EKydrk7eLh12dzHjqLK39iJ4qPXpEyy_IHE4Vwkh7kPE__y-D1Hv04YtauaqDZltc0KKQuZs3lJW6Th1bAL0i6MV0Qyn8H9AcrCJ2JX6AGOGoykprv3_9wxmpfNEzpVq7L0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.6ad70c17.jpg",706 Asyik FM
+#EXTINF:-1 group-title="Radio" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.6ad70c17.jpg",706 Asyik FM
 https://23693.live.streamtheworld.com/ASYIK_FMAAC.aac
 
 #EXTINF:-1 ch-number="707" tvg-id="TLC" group-title="Lifestyle" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",707 TLC
@@ -916,7 +916,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUeOV6Zn1IaYCsVySN%2F6aTU0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV100000162%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBiE36bHpi0I9tCTGxOTDbuJrFczhZ9KLNRt0cS3X1D2NpmZbzJTREOHD5PZwoqt0IXSXZ7JEnqWCp2WFhtlBUv0WwWjWAPv-9FVoV2w03F3loILrpTkUrF6mdt7uLVZ3QdL0WT_2JHio2_ItKnjDyQO5yI5TH0Y-bfH8yf6tcKoXq_JotwUWuSlyvOSTYtbI13nhF2QdmG4IVL7GdwLMB18InZDc4WjCgOZ8e79m_uK7fzmD_CkDoH0AAAA&tenantId=6001 
 
-#EXTINF:-1 group-title="radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",707 Sabah FM
+#EXTINF:-1 group-title="Radio" ch-number="707" tvg-id="707" tvg-chno="707" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",707 Sabah FM
 https://22273.live.streamtheworld.com/SABAH_FMAAC.aac
 
 #EXTINF:-1 ch-number="708" tvg-id="FoodNetwork" group-title="Lifestyle" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png",708 Food Network
@@ -929,7 +929,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 https://web.hypp.tv:443/PLTV/88888888/224/3221227927/3221227927.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVIq%2FzwD5xYAe8dI3PltEQ%2BUrcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV55456338%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQY_CIBSE_w1HApSqPXByY2Jiqol1r-YBD2xKi0I18d_brt25vZn5XmZMYHD_o4oNc9pVVsvSSF45raWoDCvEdBQlSpLxUUcliIEQ2sHX0c7Y73l75YwyKgSnXJBmfrcL4Jdm_ew1JlX8Y2dMr9agstnRF2QK3if0MLZxoKcA70sKS4Vgs0zjq3W5qpicJNZknN0Gcjcl5AZ5G_s7JLSH6P8A5SBkJHcwHXisoUc1PEP4csdkpzUfwVvnv_QAAAA&tenantId=6001 
 
-#EXTINF:-1 group-title="radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",708 Sabah VFM
+#EXTINF:-1 group-title="Radio" ch-number="708" tvg-id="708" tvg-chno="708" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",708 Sabah VFM
 https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
 
 #EXTINF:-1 ch-number="709" tvg-id="AFN" group-title="Lifestyle" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",709 Asian Food Network
@@ -942,7 +942,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 https://web.hypp.tv:443/PLTV/88888888/224/3221227971/3221227971.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawgQY43Tg5eLk6%2BKHkOBbkVv%2FaciHRqnNnDuZfWMEk6l0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206101746%3AUTC%2C1003663983%2C115.164.187.20%2C20230206101746%2Curn:Huawei:liveTV:XTV59922231%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWPQU-EMBSE_02PDX2LUA49rdnExKDJolcztI9KttC1ZTfx3wuKc3wz38vMkmD56dEMKEB1rQlDX6raNWh6TfqAinRflVZk_mqjIWERwjj7NroNez8fP1QhC0mkpCLRbe9OAX5Ptrep52QO_9iZ0320bFwe5B1ZwvvEHssYZ_ka8P2Wwh4R3O3VVFU_VE1RriItlu3aIV9WR3wiH-N0RWL3HP0vsC4JmcUV9gLPLSY28y2EP-4lubXND5_xMYT0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",709 Sarawak FM
+#EXTINF:-1 group-title="Radio" ch-number="709" tvg-id="709" tvg-chno="709" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",709 Sarawak FM
 https://23693.live.streamtheworld.com/SARAWAK_FMAAC.aac
 
 #EXTINF:-1 group-title="Sports" tvg-id="710" tvg-chno="710" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",710 beIN Sports 3
@@ -950,7 +950,7 @@ https://23693.live.streamtheworld.com/SARAWAK_FMAAC.aac
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 https://web.hypp.tv:443/PLTV/88888888/224/3221227892/3221227892.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrUDhVRD65aYf%2BjyDsSSHpLfkrcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV55456355%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBBE_6bHhpYCeuhJY2Ji0AT0atbtUomFagsm_r2ieJ2ZN3lDAKTtWjeXQmUyRcpypVCYJaIiVAmmgFlDgkV6lF5LhuBc29vSmwk7VauzSHjCpRRcSFZPdxsHdl6WY3ehoNM_VlF4tkjaxIY_IXKwNpCFofU9Pzh4HYObJ4zqWU3kRZYvE1VIpRZsmNIa4u3TsCvEle_uEMjsvP0CugEXid0Bb2CphI50Pzr34_bBfGzeA19EPPQAAAA&tenantId=6001 
 
-#EXTINF:-1 group-title="radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",710 Wai FM
+#EXTINF:-1 group-title="Radio" ch-number="710" tvg-id="710" tvg-chno="710" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-wai.c98b98ac.jpg",710 Wai FM
 https://23693.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 
 #EXTINF:-1 group-title="Sports" tvg-id="711" tvg-chno="711" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BEIN4.png",711 beIN Sports 4
@@ -958,7 +958,7 @@ https://23693.live.streamtheworld.com/WAI_FM_IBANAAC.aac
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 https://web.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
-#EXTINF:-1 group-title="radio" ch-number="711" tvg-chno="711" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=229151117",711 Bernama Radio
+#EXTINF:-1 group-title="Radio" ch-number="711" tvg-chno="711" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=229151117",711 Bernama Radio
 https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 ch-number="712" tvg-id="WarnerTV" group-title="Entertainment" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",712 Warner TV
@@ -966,7 +966,7 @@ https://live.mana2.my/BernamaRadio/index.m3u8|User-Agent=Mozilla
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="712" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01.jpg",712 Hot FM
+#EXTINF:-1 group-title="Radio" ch-number="712" tvg-chno="721" tvg-logo="https://assets-mpa.hotfm.audio/media/Logo/profile_photo_1000x1000-01.jpg",712 Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm
 
 #EXTINF:-1 ch-number="713" tvg-id="ParamountNetwork" group-title="Entertainment" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",713 Paramount Network
@@ -974,7 +974,7 @@ https://mediaprima.rastream.com/mediaprima-hotfm
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"padw2I5EA3cvNuIxPo4y0A", "kid":"//WSeiJJ8JT6N3PDkClAEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="713" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",713 Fly FM
+#EXTINF:-1 group-title="Radio" ch-number="713" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",713 Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 ch-number="714" tvg-id="CrimeInvestigation" group-title="Documentaries" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",714 Crime & Investigation
@@ -982,7 +982,7 @@ https://mediaprima.rastream.com/mediaprima-flyfm
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2111/default.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="714" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",714 Molek FM
+#EXTINF:-1 group-title="Radio" ch-number="714" tvg-chno="725" tvg-logo="https://assets.audioplus.audio/2021/12/profile_photo_1000x1000-03-300x300.jpg",714 Molek FM
 https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:-1 ch-number="715" tvg-id="HGTV" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",715 HGTV
@@ -990,7 +990,7 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2502/default.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="715" tvg-chno="724" tvg-logo="https://assets-mpa.8fm.audio/media/Logo/profile_photo_1000x1000-05.jpg",715 8FM
+#EXTINF:-1 group-title="Radio" ch-number="715" tvg-chno="724" tvg-logo="https://assets-mpa.8fm.audio/media/Logo/profile_photo_1000x1000-05.jpg",715 8FM
 https://mediaprima.rastream.com/mediaprima-onefm
 
 #EXTINF:-1 ch-number="716" tvg-id="DMAX" group-title="Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",716 DMAX
@@ -998,7 +998,7 @@ https://mediaprima.rastream.com/mediaprima-onefm
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="716" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",716 Kool 101
+#EXTINF:-1 group-title="Radio" ch-number="716" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",716 Kool 101
 https://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 ch-number="717" tvg-id="BBCLifestyle" group-title="Lifestyle" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",717 BBC Lifestyle
@@ -1011,7 +1011,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
-#EXTINF:-1 group-title="radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=233559647",726 Manis FM
+#EXTINF:-1 group-title="Radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=233559647",726 Manis FM
 https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
 
 #EXTINF:-1 ch-number="795" tvg-id="Supersport" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",795 SuperSport
